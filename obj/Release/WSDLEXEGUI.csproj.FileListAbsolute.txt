@@ -1,0 +1,10 @@
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Release\WSDLEXEGUI.exe.config
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Release\WSDLEXEGUI.exe
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Release\WSDLEXEGUI.pdb
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.Properties.Resources.resources
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.csproj.GenerateResource.cache
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.csproj.CoreCompileInputs.cache
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.exe
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.pdb
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.ParamsForm.resources
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.csprojAssemblyReference.cache

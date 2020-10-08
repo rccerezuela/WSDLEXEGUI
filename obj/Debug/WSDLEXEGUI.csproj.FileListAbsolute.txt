@@ -1,0 +1,9 @@
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Debug\WSDLEXEGUI.exe.config
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Debug\WSDLEXEGUI.exe
+C:\Users\rccer\source\repos\WSDLEXEGUI\bin\Debug\WSDLEXEGUI.pdb
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.Form1.resources
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.Properties.Resources.resources
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.csproj.GenerateResource.cache
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.csproj.CoreCompileInputs.cache
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.exe
+C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Debug\WSDLEXEGUI.pdb

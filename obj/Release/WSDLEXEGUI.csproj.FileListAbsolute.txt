@@ -7,4 +7,3 @@ C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.csproj.CoreCompile
 C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.exe
 C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.pdb
 C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.ParamsForm.resources
-C:\Users\rccer\source\repos\WSDLEXEGUI\obj\Release\WSDLEXEGUI.csprojAssemblyReference.cache

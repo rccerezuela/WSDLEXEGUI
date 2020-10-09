@@ -44,7 +44,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.wsdlExePath = new System.Windows.Forms.TextBox();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label9 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -197,16 +196,6 @@
             this.wsdlExePath.Text = "c:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\wsdl.exe" +
     "";
             // 
-            // linkLabel1
-            // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(429, 12);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(121, 13);
-            this.linkLabel1.TabIndex = 21;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "wsdl.exe documentation";
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
@@ -223,7 +212,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(574, 490);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.wsdlExePath);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label8);
@@ -265,7 +253,6 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox wsdlExePath;
-        private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label9;
     }
 }

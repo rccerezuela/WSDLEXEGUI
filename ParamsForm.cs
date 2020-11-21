@@ -27,8 +27,10 @@ namespace WSDLEXEGUI
     
         private void generate_click(object sender, EventArgs e)
         {
+            OutputText.Text = "Generating...";
+
             string wsdlPath = wsdlExePath.Text;
-            Console.WriteLine(wsdlPath);
+            
 
             wsdlCommandBuildHelper = new WSDLCommandBuildHelper();
             wsdlCommandBuildHelper.generateWsdlExeBinPath(wsdlExePath.Text);
@@ -52,9 +54,10 @@ namespace WSDLEXEGUI
             string output = process.StandardOutput.ReadToEnd();
             process.Close();
 
-            Console.WriteLine(output);
+            OutputText.Text = output;
+
+         
         }
 
-       
     }
 }

@@ -45,6 +45,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.wsdlExePath = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
+            this.OutputText = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -118,7 +119,7 @@
             this.classOutputNamespace.Name = "classOutputNamespace";
             this.classOutputNamespace.Size = new System.Drawing.Size(163, 20);
             this.classOutputNamespace.TabIndex = 11;
-            this.classOutputNamespace.Text = "ProxyNAVCustomerCard ";
+            this.classOutputNamespace.Text = "ProxyNAVCustomerCard";
             // 
             // ClassOutputName
             // 
@@ -206,11 +207,21 @@
             this.label9.TabIndex = 22;
             this.label9.Text = "wsdl URI Auth Pass";
             // 
+            // OutputText
+            // 
+            this.OutputText.Enabled = false;
+            this.OutputText.Location = new System.Drawing.Point(20, 416);
+            this.OutputText.Multiline = true;
+            this.OutputText.Name = "OutputText";
+            this.OutputText.Size = new System.Drawing.Size(374, 90);
+            this.OutputText.TabIndex = 23;
+            // 
             // ParamsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(574, 490);
+            this.ClientSize = new System.Drawing.Size(657, 537);
+            this.Controls.Add(this.OutputText);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.wsdlExePath);
             this.Controls.Add(this.label3);
@@ -254,6 +265,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox wsdlExePath;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox OutputText;
     }
 }
 
